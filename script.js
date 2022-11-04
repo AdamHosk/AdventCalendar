@@ -11,8 +11,11 @@
     
 // }
 
-window1.addEventListener("click", logstuff);
 
-function logstuff(){
+
+window1.addEventListener("click", showPic);
+
+function showPic(){
     window.location.href = "https://www.rd.com/wp-content/uploads/2020/12/GettyImages-1061584024.jpg";
 }
+
