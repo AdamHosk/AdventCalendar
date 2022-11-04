@@ -16,7 +16,7 @@
 
 .grid-item1{
     
-    color: aliceblue;
+    color: rgb(255, 170, 0);
     margin-top: 0%;
     font-size: 20px;
     margin-bottom: 0;
@@ -27,8 +27,8 @@
 
 body{
     font-family:  'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background: rgb(34,193,195);
-    background: linear-gradient(27deg, rgba(34,193,195,1) 0%, rgba(69,45,253,1) 100%);
+    background: rgb(22,91,51);
+    background: linear-gradient(27deg, rgba(22,91,51,1) 0%, rgba(20,107,58,1) 18%, rgba(103,123,53,1) 46%, rgba(234,70,48,1) 76%, rgba(187,37,40,1) 100%);
     overflow: hidden;
     background-size: cover;
     width: 90%;
@@ -41,7 +41,7 @@ body{
 
 #form{
     border-radius: 5%;
-    background-color: aliceblue;
+    background-color: rgba(240, 248, 255, 0.816);
     padding: 10% 0 20% 0;
     margin-top: 0%;
 }
