@@ -11,7 +11,7 @@
     
 // }
 
-
+ 
 
 window1.addEventListener("click", showPic);
 
