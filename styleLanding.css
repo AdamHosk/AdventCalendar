@@ -17,9 +17,9 @@
 .grid-item1{
     
     color: white;
-    margin-top: 0%;
-    font-size: 23px;
-    margin-bottom: 0;
+    margin: auto 1%;
+    font-size: 13px;
+   
     
     
 }
@@ -28,7 +28,7 @@
 
 
 body{
-    font-family: 'Mountains of Christmas';
+    font-family: 'playfair display', sans-serif;
     background-image: url(//3.bp.blogspot.com/-uBj4QXZpoEI/UM_zPBQ6_KI/AAAAAAAAB4k/0bbUEudjPcA/s1600/Christmas-Candlelight-HD-iphone-wallpaper+04.jpg);
     
     background-attachment: fixed;
